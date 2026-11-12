@@ -1,35 +1,54 @@
-[شارژ دلاری با پرداخت ریالی - IraniCard](https://panel.iranicard.ir/register?referralCode=53928383)  
+# LLM Learning Journey
 
-[اجاره GPU سرور Vast.ai](https://cloud.vast.ai/?ref_id=217553)  
+A hands-on learning repository focused on Large Language Models (LLMs), Generative AI, and modern AI engineering.
+
+This repository follows the educational materials by [Alireza Akhavanpour](https://github.com/Alireza-Akhavan), with additional experiments, implementations, and personal notes.
+
+## Objectives
+
+- Understand the fundamentals of Large Language Models.
+- Explore Prompt Engineering and LLM APIs.
+- Practice Fine-Tuning and Parameter-Efficient Fine-Tuning (PEFT).
+- Learn Retrieval-Augmented Generation (RAG).
+- Experiment with Transformer architectures.
+- Explore Vision-Language Models (VLMs).
+
+## Repository Structure
+
+```text
+LLM/
+├── My Exercises/
+│   ├── 01_Summarization/
+│   ├── 02_Prompt_Engineering/
+│   └── ...
+│
+├── My Notes/
+│
+├── Original Course Files
+│
+└── README.md
+```
+
+## Tools & Environment
+
+- Python
+- Google Colab
+- Kaggle
+- Hugging Face
+- Git & GitHub
+
+## Learning Approach
+
+Each topic is explored through:
+
+1. Conceptual understanding
+2. Hands-on coding
+3. Experiments and modifications
+4. Independent exercises
+5. Version control with Git
 
 ---
 
-## 🎓 دوره‌های آموزشی
+**Status:** In Progress 🚀
 
-### 🔹 [آموزش هوش مصنوعی مولد با مدل‌های زبانی بزرگ (LLM)](https://mktb.me/04dr/)
-<a href="https://mktb.me/04dr/">
-  <img src="https://github.com/Alireza-Akhavan/LLM/blob/main/LLM_poster3-1_1404-04-08-143908552.webp?raw=true" alt="LLM Course" width="400"/>
-</a>  
-
-مدرس: علیرضا اخوان پور  
-
----
-
-### 🔹 [آموزش مدل‌های زبانی-تصویری (VLM): از درک تصویر و ویدیو تا فاین‌تیون پیشرفته](https://mktb.me/e3gx/)
-<a href="https://mktb.me/e3gx/">
-  <img src="https://github.com/Alireza-Akhavan/LLM/blob/main/20250922173706648324.webp?raw=true" alt="VLM Course" width="400"/>
-</a>  
-
-مدرس: علیرضا اخوان پور  
-
----
-
-## 📢 ارتباط با ما
-- کانال تلگرام دوره‌ها: [t.me/llm_huggingface](https://t.me/llm_huggingface)  
-- گروه تلگرامی پرسش و پاسخ: [t.me/llm_group](https://t.me/llm_group)  
-
----
-
-## 🌟 نکته مهم برای شرکت‌کنندگان
-اگر مدرک دوره‌های LLM یا VLM را دریافت کردید، حتماً آن را در پروفایل  LinkedIn خود اضافه کنید و من [علیرضا اخوان پور](https://www.linkedin.com/in/alirezaakhavanpour/) را تگ کنید.  
-این کار هم به تقویت رزومه شخصی شما کمک می‌کند و هم باعث دلگرمی و دیده شدن تلاش‌های جمعی ما می‌شود. 🚀
+*Learn by building. Understand by experimenting.*
